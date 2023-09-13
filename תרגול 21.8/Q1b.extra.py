@@ -1,0 +1,7 @@
+a = int(input("enter first number: "))
+b = int(input("enter second number: "))
+c = int(input("enter third number: "))
+first_output = (-b+((b**2-4*a*c)**0.5))/(2*a)
+second_output = (-b-((b**2-4*a*c)**0.5))/(2*a)
+print(first_output)
+print(second_output)

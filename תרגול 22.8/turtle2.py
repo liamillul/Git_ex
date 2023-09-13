@@ -1,0 +1,16 @@
+import turtle
+
+t = turtle.Turtle()
+t.pen(fillcolor="blue")
+t.color("blue")
+t.begin_fill()
+t.circle(100)
+t.end_fill()
+t.home()
+t.setpos(100, 80)
+t.setpos(45, 80)
+t.screen.bgcolor("red")
+t.screen.title("turtle practice session")
+t.pensize(4)
+t.forward(200)
+t.screen.mainloop()
