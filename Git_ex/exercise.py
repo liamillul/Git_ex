@@ -1,5 +1,5 @@
 #1
-print("Dog")
+print("Duck")
 
 #2
 print("elephant")
