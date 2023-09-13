@@ -1,9 +1,9 @@
 #1
-print(" Hello Enter your  name: Lia")
+print("Dog")
 
 #2
 print("elephant")
 
 name = "Name" 
-print(" Hello " , name ," How are you: " )
+print(" Hello ", name, " How are you: " )
 
